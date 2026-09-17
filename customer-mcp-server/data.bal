@@ -4,7 +4,7 @@
 // customer (the display name still differs per customer) so the whole demo can send
 // to one controlled inbox regardless of which customer is investigated.
 
-configurable string demoMailbox = "wso2integrationdemos@gmail.com";
+configurable string demoMailbox = "isuruudanalokunarangoda@gmail.com";
 
 final map<CustomerRecord> & readonly customersById = {
     "CUST-1001": {
